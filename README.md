@@ -1,13 +1,18 @@
 # Synergy
+![Logo](https://github.com/user-attachments/assets/8e956e4a-ff52-4d14-a151-dac698a5babc)
 
 Synergy is a comprehensive web application designed for coding enthusiasts and hiring teams. It provides a unified platform to view upcoming coding contests and showcases detailed user coding profiles. By aggregating data from multiple coding platforms, Synergy helps hiring managers assess candidates' coding and data structure & algorithm (DSA) skills while promoting fair play through anti-plagiarism mechanisms.
+
+![Home](assets/home.png)
 
 ## Key Features
 
 - **Upcoming Coding Contests**: Stay updated with a schedule of upcoming coding contests from popular platforms.
 - **User Profiles**:
   - Display contest ratings and progress over time.
+  - ![Profile](assets/profile.png)
   - Heatmap visualization of coding activity.
+  - ![Heatmap](assets/heatmap.png)
   - Questions solved and coding history.
   - Badges and achievements.
 - **Hiring Team Tools**:
