@@ -1,5 +1,5 @@
 # Synergy
-<img src="assets/logo.png" alt="Synergy Logo" height="100">
+<img src="https://github.com/user-attachments/assets/def1fb6a-47b3-40d1-8baf-ccae8836d69f" alt="Synergy Logo" height="100">
 
 Synergy is a comprehensive web application designed for coding enthusiasts and hiring teams. It provides a unified platform to view upcoming coding contests and showcases detailed user coding profiles. By aggregating data from multiple coding platforms, Synergy helps hiring managers assess candidates' coding and data structure & algorithm (DSA) skills while promoting fair play through anti-plagiarism mechanisms.
 
